@@ -27,3 +27,4 @@ jobs:
         echo "------------------opening the service------------------"
         curl $(minikube service local-devex-svc --url)
 
+
